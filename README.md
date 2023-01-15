@@ -1,4 +1,4 @@
-# :bomb: Impulse
+# :bomb: Impuls
 ## Modern Denial-of-service ToolKit
 
 
